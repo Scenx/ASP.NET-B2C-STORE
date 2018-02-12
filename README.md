@@ -1,1 +1,2 @@
 # ASP.NET B2C STORE
+仅供学习用途
